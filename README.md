@@ -1,3 +1,7 @@
+# CSS Radar Feed
+
+This is a fork of Paul Irish's [frontend-feeds](https://github.com/paulirish/frontend-feeds).
+
 ## Step 1: Read the background 
 
 <a href="http://www.paulirish.com/2011/web-browser-frontend-and-standards-feeds-to-follow/">
