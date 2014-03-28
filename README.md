@@ -1,4 +1,4 @@
-# CSS Radar Feed
+# CSS Radar frontend-feeds
 
 This is a fork of Paul Irish's [frontend-feeds](https://github.com/paulirish/frontend-feeds).
 
@@ -12,6 +12,6 @@ This is a fork of Paul Irish's [frontend-feeds](https://github.com/paulirish/fro
 
 Works great in Feedly, Newsblur, etc.
 
-#### http://paulirish.github.io/frontend-feeds/frontend-feeds.opml
+#### http://studiomohawk.github.io/frontend-feeds/frontend-feeds.opml
 
-If you want a preview of what feeds are in there, just [read the XML](https://rawgithub.com/paulirish/frontend-feeds/gh-pages/frontend-feeds.opml). ;)
+If you want a preview of what feeds are in there, just [read the XML](https://raw.github.com/studiomohawk/frontend-feeds/gh-pages/frontend-feeds.opml). ;)
