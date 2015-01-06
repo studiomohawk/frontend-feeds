@@ -72,7 +72,6 @@
 <outline text="CSS Working Group Blog" title="CSS Working Group Blog" type="rss" xmlUrl="http://www.w3.org/blog/CSS/feed/atom/" htmlUrl="http://www.w3.org/blog/CSS"/>
 <outline text="CSS-Tricks" title="CSS-Tricks" type="rss" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com"/>
 <outline text="css3files.com" title="css3files.com" type="rss" xmlUrl="http://www.css3files.com/feed/" htmlUrl="http://www.css3files.com"/>
-<outline text="Daily Vim Devotional" title="Daily Vim Devotional" type="rss" xmlUrl="http://dailyvim.tumblr.com/rss" htmlUrl="http://dailyvim.tumblr.com/"/>
 <outline text="DailyJS" title="DailyJS" type="rss" xmlUrl="http://feeds.feedburner.com/dailyjs" htmlUrl="http://dailyjs.com"/>
 <outline text="Dan Mall: Articles" title="Dan Mall: Articles" type="rss" xmlUrl="http://feeds.feedburner.com/danielmall-articles" htmlUrl="http://www.danielmall.com/"/>
 <outline text="Daniel Eden" title="Daniel Eden" type="rss" xmlUrl="http://daneden.me/feed/" htmlUrl="http://daneden.me"/>
@@ -291,7 +290,6 @@
 <outline text="TimKadlec.com" title="TimKadlec.com" type="rss" xmlUrl="http://timkadlec.com/atom.xml" htmlUrl="http://timkadlec.com/"/>
 <outline text="TJ Holowaychuk on Medium" title="TJ Holowaychuk on Medium" type="rss" xmlUrl="https://medium.com/feed/@tjholowaychuk" htmlUrl="https://medium.com/@tjholowaychuk"/>
 <outline text="Toby Ho. Javascript. WWW. Code." title="Toby Ho. Javascript. WWW. Code." type="rss" xmlUrl="http://feeds.feedburner.com/tobyho" htmlUrl="http://tobyho.com"/>
-<outline text="Today I learned: Vim" title="Today I learned: Vim" type="rss" xmlUrl="http://tilvim.com/feed.xml" htmlUrl="http://www.tilvim.com"/>
 <outline text="Tom Dale" title="Tom Dale" type="rss" xmlUrl="http://tomdale.net/feed/" htmlUrl="http://tomdale.net"/>
 <outline text="Toptal Engineering Blog" title="Toptal Engineering Blog" type="rss" xmlUrl="http://www.toptal.com/blog.rss" htmlUrl="http://www.toptal.com/blog"/>
 <outline text="totes profesh" title="totes profesh" type="rss" xmlUrl="http://www.garann.com/dev/feed/atom/" htmlUrl="http://www.garann.com/dev/"/>
@@ -303,12 +301,10 @@
 <outline text="UNSTOPPABLE ROBOT NINJA" title="UNSTOPPABLE ROBOT NINJA" type="rss" xmlUrl="http://feeds.feedburner.com/urn-rss20" htmlUrl="http://unstoppablerobotninja.com/"/>
 <outline text="UsabilityGeek - Usability &amp; User Experience Blog" title="UsabilityGeek - Usability &amp; User Experience Blog" type="rss" xmlUrl="http://feeds.feedburner.com/UsabilityGeek" htmlUrl="http://usabilitygeek.com"/>
 <outline text="UsabilityPost" title="UsabilityPost" type="rss" xmlUrl="http://feeds.feedburner.com/usabilitypost" htmlUrl="http://www.google.com/reader/view/feed%2Fhttp%3A%2F%2Ffeeds.feedburner.com%2Fusabilitypost"/>
-<outline text="usevim" title="usevim" type="rss" xmlUrl="http://feeds.feedburner.com/usevim" htmlUrl="http://usevim.com"/>
 <outline text="UX Magazine" title="UX Magazine" type="rss" xmlUrl="http://feeds.feedburner.com/UXM/" htmlUrl="http://uxmag.com"/>
 <outline text="UX Movement" title="UX Movement" type="rss" xmlUrl="http://feeds.feedburner.com/uxmovement" htmlUrl="http://uxmovement.com"/>
 <outline text="Uxebu.com - JavaScript addicts" title="Uxebu.com - JavaScript addicts" type="rss" xmlUrl="http://uxebu.com/blog/feed/" htmlUrl="http://uxebu.com/blog"/>
 <outline text="Viget.com Blogs" title="Viget.com Blogs" type="rss" xmlUrl="http://feeds.feedburner.com/VigetInspire" htmlUrl="http://viget.com/"/>
-<outline text="Vimcasts OGG Feed" title="Vimcasts OGG Feed" type="rss" xmlUrl="http://vimcasts.org/feeds/ogg" htmlUrl="http://vimcasts.org/feeds/ogg/"/>
 <outline text="W3C Blog" title="W3C Blog" type="rss" xmlUrl="http://www.w3.org/QA/atom.xml" htmlUrl="http://www.w3.org/QA/"/>
 <outline text="Warpspire" title="Warpspire" type="rss" xmlUrl="http://feeds.feedburner.com/warpspire" htmlUrl="http://warpspire.com/"/>
 <outline text="Wealthfront Engineering" title="Wealthfront Engineering" type="rss" xmlUrl="http://eng.wealthfront.com/feeds/posts/default" htmlUrl="http://eng.wealthfront.com/"/>
